@@ -1,0 +1,32 @@
+In this file you can find the header for the provided data files for Experiments 1 and 2 (you may want to open it in notepad++ for better readability).
+The header describes which variable is coded in each column (e.g., participant number) and how this variable is named in the experimental and analysis scripts (e.g., "ppn").
+
+Header Data Files:
+	- Column 1: participant number
+		    		"ppn"
+	- Column 2: participant age
+				"lftd"
+	- Column 3: participant gender (v: female, m: male)
+				"gender"
+	- Column 4: experimental block
+				"block"			
+	- Column 5: imperative cue (1: W, 2: P)
+				"cue"				
+	- Column 6: observed finger movement (1: index finger, 2: middle finger)
+				"vinger"
+	- Column 7: number of observed movements (1, 2, 3, or 4)
+				"aantal"				
+	- Column 8: configuration of the stimulus hands (see stimulus folder)
+				"pos"
+	- Column 9: congruency (0: incongruent, 1: congruent)
+				"con"
+	- Column 10: expected response (1: index finger, 2: middle finger)
+				"xr"
+	- Column 11: response (1: index finger, 2: middle finger)
+				"r"
+	- Column 12: accuracy (0: error, 1: correct)
+				"corr"
+	- Column 13: reaction time in ms
+				"rt"
+	- Column 14: error on reaction time in ms
+				"re"
